@@ -11,8 +11,9 @@ devfinder is a web application that allows users to search for GitHub profiles b
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/[username]/devfinder.git`
-2. Open `http://localhost:3000` in your browser
+1. Clone the repository: `git clone https://github.com/FaisalKhan2000/Devfinder.git`
+2. Install dependencies: `npm install`
+3. Open `http://localhost:3000` in your browser
 
 ## Built With
 
@@ -22,9 +23,14 @@ devfinder is a web application that allows users to search for GitHub profiles b
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [GitHub API](https://docs.github.com/en/rest/)
 
+## Screenshots
+
+![dark mode](./screenshots/darkmode.png)
+![light mode](./screenshots/lightmode.png)
+
 ## Author
 
-- **Faisal Khan** - [GitHub Profile](https://github.com/username)
+- **Faisal Khan** - [GitHub Profile](https://github.com/FaisalKhan2000)
 
 ## Contact
 
